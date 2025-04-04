@@ -13,8 +13,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 - [Week 2](https://github.com/santpa987/coursera-machine-learning-specialization/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2)
 - [Week 3](https://github.com/santpa987/coursera-machine-learning-specialization/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3)
 
-### [Specialization Certificate](https://coursera.org/share/4833e4328133e5b269618c7e7bd4204a)
-
 
 <hr/>
 
