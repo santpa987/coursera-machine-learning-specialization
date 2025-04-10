@@ -26,6 +26,7 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 
 
+
 <div align="center">
 
 **Special thanks to [Professor Andrew Ng](https://www.andrewng.org/) for structuring and tailoring this Course.**
