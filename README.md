@@ -24,9 +24,13 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 <hr/>
 
+## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/santpa987/coursera-machine-learning-specialization/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
 
+- [Week 1](https://github.com/santpa987/coursera-machine-learning-specialization/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%201)
+- [Week 2](https://github.com/santpa987/coursera-machine-learning-specialization/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%202)
+- [Week 3](https://github.com/santpa987/coursera-machine-learning-specialization/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week%203)
 
-
+<hr/>
 
 <div align="center">
 
